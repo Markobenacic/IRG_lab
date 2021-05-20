@@ -1,1 +1,1 @@
-# IRG_lab
+# Computer graphics
